@@ -1,0 +1,307 @@
+@font-face {
+  font-family: 'BundaySans-ExtraBoldIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-ExtraBoldIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-ExtraBoldIt.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-ExtraBoldUp';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-ExtraBoldUp.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-ExtraBoldUp.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-Bold.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-BoldUpIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-BoldUpIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-BoldUpIt.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-ExtraBold.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-ExtraBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-BoldIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-BoldIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-BoldIt.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-ExtraBoldUpIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-ExtraBoldUpIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-ExtraBoldUpIt.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-BoldUp';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-BoldUp.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-BoldUp.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-SemiLightIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiLightIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiLightIt.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-SemiLight';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiLight.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiLight.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-Light.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-RegularIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-RegularIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-RegularIt.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-Heavy.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-Heavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiBold.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-Hair';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-Hair.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-Hair.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-HairUp';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-HairUp.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-HairUp.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-LightUp';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-LightUp.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-LightUp.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-HairIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-HairIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-HairIt.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-Regular.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-RegularUp';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-RegularUp.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-RegularUp.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-RegularUpIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-RegularUpIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-RegularUpIt.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-LightUpIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-LightUpIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-LightUpIt.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-SemiBoldUpIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiBoldUpIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiBoldUpIt.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-SemiLightUp';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiLightUp.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiLightUp.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-LightIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-LightIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-LightIt.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-SemiBoldIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiBoldIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiBoldIt.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-HairUpIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-HairUpIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-HairUpIt.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-SemiBoldUp';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiBoldUp.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiBoldUp.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-SemiLightUpIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiLightUpIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-SemiLightUpIt.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-HeavyUp';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-HeavyUp.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-HeavyUp.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'BundaySans-ThinUp';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-ThinUp.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-ThinUp.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-Thin.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-ThinIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-ThinIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-ThinIt.woff') format('woff');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BundaySans-ThinUpIt';
+  src: url('/wp-content/themes/imagroup/public/fonts/BundaySans-ThinUpIt.woff2') format('woff2'),
+      url('/wp-content/themes/imagroup/public/fonts/BundaySans-ThinUpIt.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+

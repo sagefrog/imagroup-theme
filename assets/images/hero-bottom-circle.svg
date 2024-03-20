@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="946" height="212" viewBox="0 0 946 212">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_523" data-name="Rectangle 523" width="946" height="212" transform="translate(140 689)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.247" y1="0.117" x2="0.676" y2="0.08" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#dae1e9"/>
+    </linearGradient>
+  </defs>
+  <g id="hp_marquee_shp1" transform="translate(-140 -689)" clip-path="url(#clip-path)">
+    <circle id="Ellipse_48" data-name="Ellipse 48" cx="637" cy="637" r="637" transform="translate(-24 720)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,3 +1,7 @@
+* {
+  color: red;
+}
+
 section.referrals {
   padding-bottom: 200px;
   background-size: cover !important;

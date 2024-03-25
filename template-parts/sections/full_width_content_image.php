@@ -1,5 +1,5 @@
 <?php
-
+// comment
 $status = get_sub_field( 'section_display_status' );
 
 $id = get_sub_field( 'section_id' );
@@ -13,7 +13,7 @@ if( $status == 'show' ){
     $sub_heading = get_sub_field( 'full_width_content_image_sub_heading' );
     $heading_content = get_sub_field( 'full_width_content_image_heading_+_content' );
     $button = get_sub_field( 'full_width_content_image_button' );
-    
+
     if( empty($mobile_image) ){
         $mobile_image = $desktop_image;
     } ?>
@@ -28,7 +28,7 @@ if( $status == 'show' ){
                             if( !empty($sub_heading) ){ ?>
                                 <span class="sub-title"><?php echo $sub_heading; ?></span><?php
                             }
-                            
+
                             if( !empty($heading_content) ){
                                 echo imagroup_remove_empty_p( wpautop($heading_content) );
                             }

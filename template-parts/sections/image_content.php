@@ -67,6 +67,7 @@ if ($status == 'show') {
                 } else if ($layout == 4) { ?>
         <section <?php imagroup_section_id($id); ?> class="content-part pt-xl-75 pb-xl-75 pt-md-65 pb-md-65 pb-35 pt-35 <?php echo esc_attr($extra_class); ?>">
             <div class="container">
+              <!-- Comment -->
                 <div class="content-row">
                     <div class="row align-items-center gx-xxl-70 gx-xl-50 gy-md-30 gy-sm-30">
                         <div class="col-lg-6 col-md-6 col-sm-12 col-12"><?php
